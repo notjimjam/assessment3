@@ -36,3 +36,17 @@ input {
 img {
 	max-width: 300px;
 }
+
+/* css specifically for profile */
+
+.hide {
+	visibility: hidden;
+}
+
+#message {
+	color:green
+}
+.favs {
+	background-color: yellow;
+	padding: 20px;
+}
